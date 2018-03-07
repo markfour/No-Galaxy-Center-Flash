@@ -4,5 +4,5 @@ tags={
 	"Graphics"
 }
 picture="icon.jpg"
-remote_file_id="901664189"
+remote_file_id="1234370415"
 supported_version="2.0.*"
